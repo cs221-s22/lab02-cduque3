@@ -51,5 +51,5 @@ int main(int argc, char *argv[]) {
 	}
 
 	//displays amount of character/string matches
-	printf("%d instances of %s in %s \n", count, needle, haystack);
+	printf("%d", count);
 }

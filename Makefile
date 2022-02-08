@@ -1,3 +1,3 @@
-lab02_1: lab02_1.c
-	gcc -o lab02_1 lab02_1.c
+lab02: lab02.c
+	gcc -o lab02 lab02.c
 
